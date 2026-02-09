@@ -81,9 +81,9 @@
 <!-- REPOS-START -->
 | Repository | Description | Top Languages | Stars | Forks | Last Updated |
 |------------|-------------|---------------|-------|-------|--------------|
-| [github-streaks](https://github.com/dedbot365/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 0 | 2026-02-08 |
-| [github-status](https://github.com/dedbot365/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-02-08 |
-| [dedbot365](https://github.com/dedbot365/dedbot365) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-02-07 |
+| [github-streaks](https://github.com/dedbot365/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 0 | 2026-02-09 |
+| [github-status](https://github.com/dedbot365/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-02-09 |
+| [dedbot365](https://github.com/dedbot365/dedbot365) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-02-08 |
 | [github-readme-stats](https://github.com/dedbot365/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript, Shell | ⭐ 0 | 🔱 0 | 2026-01-23 |
 | [ChainlitPDFBot](https://github.com/dedbot365/ChainlitPDFBot) | This project demonstrates a sophisticated PDF processing and... | Python | ⭐ 0 | 🔱 0 | 2026-01-23 |
 | [LlamaTalk](https://github.com/dedbot365/LlamaTalk) | No description | Python | ⭐ 0 | 🔱 0 | 2026-01-23 |
