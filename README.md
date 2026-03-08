@@ -2,14 +2,14 @@
   <h1>Hi, I'm Subigyan Paudel</h1>
   <p><em>Software Developer | UI/UX Designer | AI/IoT Enthusiast</em></p>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=dedbot365&color=brightgreen&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=subigyanpaudel&color=brightgreen&style=flat-square)
   
   <p>
-    <a href="https://github.com/dedbot365?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dedbot365?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <a href="https://github.com/subigyanpaudel?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/subigyanpaudel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <a href="https://github.com/dedbot365?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dedbot365?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <a href="https://github.com/subigyanpaudel?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/subigyanpaudel?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
   </p>
 </div>
@@ -52,10 +52,10 @@
 ## GitHub Stats
 
 <div align="Center">
-<a href="https://github.com/dedbot365/github-status">
-  <img src="https://github.com/dedbot365/github-status/blob/master/generated/overview.svg" />
-  <img src="https://github.com/dedbot365/github-status/blob/master/generated/languages.svg" />
-  <img src="https://github.com/dedbot365/github-streaks/blob/main/assets/Streaks/streak-github.svg?raw=true" alt="GitHub Streak" />
+<a href="https://github.com/subigyanpaudel/github-status">
+  <img src="https://github.com/subigyanpaudel/github-status/blob/master/generated/overview.svg" />
+  <img src="https://github.com/subigyanpaudel/github-status/blob/master/generated/languages.svg" />
+  <img src="https://github.com/subigyanpaudel/github-streaks/blob/main/assets/Streaks/streak-github.svg?raw=true" alt="GitHub Streak" />
 </a>
 </div>
 
@@ -65,9 +65,9 @@
 
 <div align="Center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dedbot365/dedbot365/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dedbot365/dedbot365/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dedbot365/dedbot365/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subigyanpaudel/subigyanpaudel/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subigyanpaudel/subigyanpaudel/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/subigyanpaudel/subigyanpaudel/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -81,18 +81,18 @@
 <!-- REPOS-START -->
 | Repository | Description | Top Languages | Stars | Forks | Last Updated |
 |------------|-------------|---------------|-------|-------|--------------|
-| [github-streaks](https://github.com/dedbot365/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 0 | 2026-03-06 |
-| [github-status](https://github.com/dedbot365/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-03-06 |
-| [dedbot365](https://github.com/dedbot365/dedbot365) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-03-05 |
-| [NeuralDoc](https://github.com/dedbot365/NeuralDoc) | This project demonstrates a sophisticated PDF processing and... | Python | ⭐ 0 | 🔱 0 | 2026-03-04 |
-| [smart_surveillance](https://github.com/dedbot365/smart_surveillance) | No description | JavaScript, CSS, HTML | ⭐ 0 | 🔱 0 | 2026-03-04 |
-| [bookbox](https://github.com/dedbot365/bookbox) | No description | HTML, C#, JavaScript | ⭐ 0 | 🔱 1 | 2026-03-04 |
-| [github-readme-stats](https://github.com/dedbot365/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript, Shell | ⭐ 0 | 🔱 0 | 2026-01-23 |
-| [LlamaTalk](https://github.com/dedbot365/LlamaTalk) | No description | Python | ⭐ 0 | 🔱 0 | 2026-01-23 |
-| [HertzCraft-CMP2a-ui](https://github.com/dedbot365/HertzCraft-CMP2a-ui) | No description | JavaScript, CSS, HTML | ⭐ 0 | 🔱 0 | 2026-01-14 |
-| [expenzo](https://github.com/dedbot365/expenzo) | No description | HTML, C#, CSS | ⭐ 0 | 🔱 0 | 2025-01-28 |
-| [Student_management_system](https://github.com/dedbot365/Student_management_system) | GUI based simple student management system done in java prog... | Java | ⭐ 0 | 🔱 0 | 2024-08-22 |
-| [Duke-learning-Movie-recommender.](https://github.com/dedbot365/Duke-learning-Movie-recommender.) | Movie Recommendation System | Java | ⭐ 0 | 🔱 0 | 2024-02-07 |
+| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 0 | 2026-03-06 |
+| [github-status](https://github.com/subigyanpaudel/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-03-06 |
+| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-03-05 |
+| [NeuralDoc](https://github.com/subigyanpaudel/NeuralDoc) | This project demonstrates a sophisticated PDF processing and... | Python | ⭐ 0 | 🔱 0 | 2026-03-04 |
+| [smart_surveillance](https://github.com/subigyanpaudel/smart_surveillance) | No description | JavaScript, CSS, HTML | ⭐ 0 | 🔱 0 | 2026-03-04 |
+| [bookbox](https://github.com/subigyanpaudel/bookbox) | No description | HTML, C#, JavaScript | ⭐ 0 | 🔱 1 | 2026-03-04 |
+| [github-readme-stats](https://github.com/subigyanpaudel/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript, Shell | ⭐ 0 | 🔱 0 | 2026-01-23 |
+| [LlamaTalk](https://github.com/subigyanpaudel/LlamaTalk) | No description | Python | ⭐ 0 | 🔱 0 | 2026-01-23 |
+| [HertzCraft-CMP2a-ui](https://github.com/subigyanpaudel/HertzCraft-CMP2a-ui) | No description | JavaScript, CSS, HTML | ⭐ 0 | 🔱 0 | 2026-01-14 |
+| [expenzo](https://github.com/subigyanpaudel/expenzo) | No description | HTML, C#, CSS | ⭐ 0 | 🔱 0 | 2025-01-28 |
+| [Student_management_system](https://github.com/subigyanpaudel/Student_management_system) | GUI based simple student management system done in java prog... | Java | ⭐ 0 | 🔱 0 | 2024-08-22 |
+| [Duke-learning-Movie-recommender.](https://github.com/subigyanpaudel/Duke-learning-Movie-recommender.) | Movie Recommendation System | Java | ⭐ 0 | 🔱 0 | 2024-02-07 |
 
 <!-- REPOS-END -->
 
@@ -139,7 +139,7 @@
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dedbot365)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subigyanpaudel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
