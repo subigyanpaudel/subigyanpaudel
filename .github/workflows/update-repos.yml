@@ -31,7 +31,7 @@ jobs:
           import time
 
           # --- Configuration ---
-          USERNAME = "dedbot365"
+          USERNAME = "subigyanpaudel"
           START_MARKER = "<!-- REPOS-START -->"
           END_MARKER = "<!-- REPOS-END -->"
 
