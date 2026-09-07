@@ -81,8 +81,8 @@
 <!-- REPOS-START -->
 | Repository | Description | Top Languages | Stars | Forks | Last Updated |
 |------------|-------------|---------------|-------|-------|--------------|
-| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 1 | 2026-09-06 |
-| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-09-05 |
+| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 1 | 2026-09-07 |
+| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-09-06 |
 | [github-status](https://github.com/subigyanpaudel/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-09-04 |
 | [register](https://github.com/subigyanpaudel/register) | Grab your own sweet-looking '.is-a.dev' subdomain. | JavaScript | ⭐ 0 | 🔱 0 | 2026-08-06 |
 | [test](https://github.com/subigyanpaudel/test) | No description | N/A | ⭐ 0 | 🔱 0 | 2026-07-24 |
