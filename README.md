@@ -81,14 +81,10 @@
 <!-- REPOS-START -->
 | Repository | Description | Top Languages | Stars | Forks | Last Updated |
 |------------|-------------|---------------|-------|-------|--------------|
-| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 1 | 2026-10-23 |
-| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-10-22 |
-| [github-status](https://github.com/subigyanpaudel/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-10-21 |
-| [vectorcraft](https://github.com/subigyanpaudel/vectorcraft) | VectorCraft: An open-source, vector art tool written by scra... | Rust, Shell, PowerShell | ⭐ 0 | 🔱 0 | 2026-10-18 |
-| [Loanbusters](https://github.com/subigyanpaudel/Loanbusters) | No description | TypeScript, JavaScript, CSS | ⭐ 0 | 🔱 0 | 2026-10-10 |
+| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 1 | 2026-10-24 |
+| [github-status](https://github.com/subigyanpaudel/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-10-24 |
+| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-10-23 |
 | [MixiD](https://github.com/subigyanpaudel/MixiD) | Unofficial Linux control panel for the Audient iD series int... | C, C++, CMake | ⭐ 0 | 🔱 0 | 2026-10-08 |
-| [register](https://github.com/subigyanpaudel/register) | Grab your own sweet-looking '.is-a.dev' subdomain. | JavaScript | ⭐ 0 | 🔱 0 | 2026-08-06 |
-| [test](https://github.com/subigyanpaudel/test) | No description | N/A | ⭐ 0 | 🔱 0 | 2026-07-24 |
 | [claw-code](https://github.com/subigyanpaudel/claw-code) | The fastest repo in history to surpass 100K stars ⭐. Better... | Rust, Python, Shell | ⭐ 0 | 🔱 0 | 2026-04-02 |
 | [MoneyPrinterV2](https://github.com/subigyanpaudel/MoneyPrinterV2) | Automate the process of making money online. | Python, Shell | ⭐ 0 | 🔱 0 | 2026-03-24 |
 | [NeuralDoc](https://github.com/subigyanpaudel/NeuralDoc) | This project is capable of giving the summary based on the d... | Python | ⭐ 0 | 🔱 0 | 2026-03-08 |
@@ -96,9 +92,7 @@
 | [bookbox](https://github.com/subigyanpaudel/bookbox) | No description | HTML, C#, JavaScript | ⭐ 0 | 🔱 1 | 2026-03-04 |
 | [github-readme-stats](https://github.com/subigyanpaudel/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript, Shell | ⭐ 0 | 🔱 0 | 2026-01-23 |
 | [LlamaTalk](https://github.com/subigyanpaudel/LlamaTalk) | No description | Python | ⭐ 0 | 🔱 0 | 2026-01-23 |
-| [HertzCraft-CMP2a-ui](https://github.com/subigyanpaudel/HertzCraft-CMP2a-ui) | No description | JavaScript, CSS, HTML | ⭐ 0 | 🔱 0 | 2026-01-14 |
 | [expenzo](https://github.com/subigyanpaudel/expenzo) | No description | HTML, C#, CSS | ⭐ 0 | 🔱 0 | 2025-01-28 |
-| [Student_management_system](https://github.com/subigyanpaudel/Student_management_system) | GUI based simple student management system done in java prog... | Java | ⭐ 0 | 🔱 0 | 2024-08-22 |
 | [Duke-learning-Movie-recommender.](https://github.com/subigyanpaudel/Duke-learning-Movie-recommender.) | Movie Recommendation System | Java | ⭐ 0 | 🔱 0 | 2024-02-07 |
 
 <!-- REPOS-END -->
