@@ -81,10 +81,10 @@
 <!-- REPOS-START -->
 | Repository | Description | Top Languages | Stars | Forks | Last Updated |
 |------------|-------------|---------------|-------|-------|--------------|
-| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 1 | 2026-10-25 |
-| [github-status](https://github.com/subigyanpaudel/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-10-25 |
+| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 1 | 2026-10-26 |
+| [github-status](https://github.com/subigyanpaudel/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-10-26 |
+| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-10-25 |
 | [MixiD](https://github.com/subigyanpaudel/MixiD) | Unofficial Linux control panel for the Audient iD series int... | C, C++, CMake | ⭐ 0 | 🔱 0 | 2026-10-24 |
-| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-10-24 |
 | [claw-code](https://github.com/subigyanpaudel/claw-code) | The fastest repo in history to surpass 100K stars ⭐. Better... | Rust, Python, Shell | ⭐ 0 | 🔱 0 | 2026-04-02 |
 | [MoneyPrinterV2](https://github.com/subigyanpaudel/MoneyPrinterV2) | Automate the process of making money online. | Python, Shell | ⭐ 0 | 🔱 0 | 2026-03-24 |
 | [NeuralDoc](https://github.com/subigyanpaudel/NeuralDoc) | This project is capable of giving the summary based on the d... | Python | ⭐ 0 | 🔱 0 | 2026-03-08 |
