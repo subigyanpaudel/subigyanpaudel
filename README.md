@@ -81,8 +81,8 @@
 <!-- REPOS-START -->
 | Repository | Description | Top Languages | Stars | Forks | Last Updated |
 |------------|-------------|---------------|-------|-------|--------------|
-| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 1 | 2026-11-03 |
-| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-11-02 |
+| [github-streaks](https://github.com/subigyanpaudel/github-streaks) | Automated GitHub Action that tracks your lifetime contributi... | N/A | ⭐ 0 | 🔱 1 | 2026-11-04 |
+| [subigyanpaudel](https://github.com/subigyanpaudel/subigyanpaudel) | I'm Subigyan Paudel, a passionate software developer and UI/... | N/A | ⭐ 0 | 🔱 0 | 2026-11-03 |
 | [github-status](https://github.com/subigyanpaudel/github-status) | Generate visualizations of GitHub user and repository statis... | Python | ⭐ 0 | 🔱 1 | 2026-10-31 |
 | [MixiD](https://github.com/subigyanpaudel/MixiD) | Unofficial Linux control panel for the Audient iD series int... | C, C++, CMake | ⭐ 0 | 🔱 0 | 2026-10-24 |
 | [claw-code](https://github.com/subigyanpaudel/claw-code) | The fastest repo in history to surpass 100K stars ⭐. Better... | Rust, Python, Shell | ⭐ 0 | 🔱 0 | 2026-04-02 |
